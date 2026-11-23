@@ -110,10 +110,3 @@ Frontend will run at:
 
 ---
 
-
-
-## 👨‍💻 Author
-
-[**Vivek Raj**](https://github.com/vivekraj3456)
-
-For questions or suggestions, feel free to open an issue in this repository.
